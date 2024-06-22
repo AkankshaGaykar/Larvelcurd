@@ -14,6 +14,11 @@ For Backend
 ### Mysql
 Open Xampp start mysql/Apache server
 
+###Required
+1)Make sure to have composer intalled on your pc.
+2)Required PHP version8.2.12
+`php --veersion`
+
 Home page
 ![Home Page](./output/home.png)
 ![Add Product](./output/add%20product.png)
