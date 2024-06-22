@@ -7,11 +7,12 @@ In the project directory, you can install:
 
 You can run project:
 
-### php artisan serve
+`php artisan serve`
 
 For Backend
 
 ### Mysql
+Open Xampp start mysql/Apache server
 
 Home page
 ![Home Page](./output/home.png)
